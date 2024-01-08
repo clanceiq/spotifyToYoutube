@@ -33,3 +33,5 @@ The project also uses the YouTube Data v3 API and Google OAuth 2.0 Authenticatio
 5. Download the JSON file and add it to your working directory
 6. Rename the JSON file "youtube_secrets.json"
 
+## Future Plans
+- Turn project into a full-stack web application by creating a front-end in HTML, CSS, JavaScript, or with Reactjs
