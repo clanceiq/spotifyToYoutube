@@ -10,6 +10,7 @@ The project also uses the YouTube Data v3 API and Google OAuth 2.0 Authenticatio
 - Only **public** Spotify playlists can be transferred into a YouTube playlist.
 - ~100 songs can be transferred per day due to the limit of the YouTube Data v3 API.
 - Run the project by navigating to the spotifyToYoutube directory and typing "python main.py" in the terminal for Windows. Or the equivalent command for other Operating Systems.
+- Currently only runs as an application in the terminal.
 
 ### Making the ".env" file
 1. In the same directory, create a file and name it ".env"
